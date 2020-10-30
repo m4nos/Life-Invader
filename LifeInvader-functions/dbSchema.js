@@ -6,7 +6,7 @@ let db = {
             handle: 'user',
             createdAt: '2019-11-11T21:57:31.688Z',
             imageUrl: '/image/sdfgsdfgsdfg/sdfgsdfgs',
-            bio: 'mikri maimou',
+            bio: 'HELLO',
             website: 'https://user.com',
             location: 'alvania'
         }
@@ -54,7 +54,7 @@ const userDetails = {
         handle: 'user',
         createdAt: '2019-11-11T21:57:31.688Z',
         imageUrl: '/image/sdfgsdfgsdfg/sdfgsdfgs',
-        bio: 'mikri maimou',
+        bio: 'HELLO',
         website: 'https://user.com',
         location: 'alvania'
     },
